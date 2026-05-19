@@ -2,6 +2,8 @@
 
 ## Sobre o projeto
 
+O Raízes do Nordeste é uma plataforma de gestão integrada e multicanal desenvolvida com Spring Boot para o setor gastronómico regional, projetada para centralizar e coordenar pedidos provenientes de aplicações móveis, navegadores web, totens de autoatendimento e balcões físicos. Utilizando uma arquitetura de back-end robusta e escalável, o sistema garante a segurança das operações através de autenticação stateless via JWT e uma gestão rigorosa de perfis de acesso (RBAC), além de oferecer ferramentas cruciais de inteligência de negócio, como a monitorização de faturação em tempo real, o controlo descentralizado de estoques por unidade física e documentação automatizada com o padrão OpenAPI/Swagger.
+
 
 ### Objetivo Geral
 
