@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: back-end
+  datasource:
+    url: jdbc:postgresql://localhost:5434/raizesdb
+    username: raizes
+    password: root
+    driver-class-name: org.postgresql.Driver
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+  jpa:
+    open-in-view: false
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operationsSorter: alpha
+    tagsSorter: alpha
+    display-request-duration: true
+    disable-swagger-default-url: true
+    doc-expansion: none

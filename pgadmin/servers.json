@@ -1,0 +1,15 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Raizes do Nordeste - Local",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "raizesdb",
+      "Username": "raizes",
+      "SSLMode": "prefer",
+      "PassFile": "/pgpass"
+    }
+  }
+}
+
