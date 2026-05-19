@@ -10,9 +10,12 @@ Desenvolver uma API RESTful robusta e escalável, utilizando o ecossistema Sprin
 ###Objetivos Específicos
 
 **•	Unificação de Canais:** Consolidar pedidos originados via App, Web, Totem e Balcão em uma única base de dados.
-•	Segurança Avançada: Implementar autenticação stateless via JWT para proteger dados de clientes e transações financeiras.
-•	Gestão de Inventário: Prover controle de estoque individualizado por unidade, com suporte a diferentes capacidades de produção (cozinhas completas ou reduzidas).
-•	Suporte à Decisão: Gerar métricas de faturamento e volume de vendas automáticas para auxílio na gestão administrativa.
+
+**•	Segurança Avançada:** Implementar autenticação stateless via JWT para proteger dados de clientes e transações financeiras.
+
+**•	Gestão de Inventário:** Prover controle de estoque individualizado por unidade, com suporte a diferentes capacidades de produção (cozinhas completas ou reduzidas).
+
+**•	Suporte à Decisão:** Gerar métricas de faturamento e volume de vendas automáticas para auxílio na gestão administrativa.
 
 
 
