@@ -3,11 +3,11 @@
 ## Sobre o projeto
 
 
-###Objetivo Geral
+### Objetivo Geral
 
 Desenvolver uma API RESTful robusta e escalável, utilizando o ecossistema Spring Boot, para centralizar a inteligência de negócio e a operação multicanal da rede Raízes do Nordeste, garantindo segurança, integridade de dados e alta disponibilidade.
 
-###Objetivos Específicos
+### Objetivos Específicos
 
 **•	Unificação de Canais:** Consolidar pedidos originados via App, Web, Totem e Balcão em uma única base de dados.
 
