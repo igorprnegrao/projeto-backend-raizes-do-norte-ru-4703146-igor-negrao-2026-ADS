@@ -5,4 +5,4 @@
 
 ### <font color="#FFC300">Objetivo Geral</font>
 
-Desenvolver uma API RESTful robusta e escalável, utilizando o ecossistema Spring Boot, para centralizar a inteligência de negócio e a operação multicanal da rede Raízes do Nordeste, garantindo segurança, integridade de dados e alta disponibilidade.
+Desenvolver uma <font color="#FFC300">API RESTful</font> robusta e escalável, utilizando o ecossistema Spring Boot, para centralizar a inteligência de negócio e a operação multicanal da rede Raízes do Nordeste, garantindo segurança, integridade de dados e alta disponibilidade.
