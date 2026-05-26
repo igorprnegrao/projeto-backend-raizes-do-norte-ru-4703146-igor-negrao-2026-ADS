@@ -19,6 +19,11 @@ Desenvolver uma API RESTful robusta e escalável, utilizando o ecossistema Sprin
 
 **•	Suporte à Decisão:** Gerar métricas de faturamento e volume de vendas automáticas para auxílio na gestão administrativa.
 
+##Autor
+Igor Patrik Ramos Negrão – RU: 4703146
+
+
+
 
 
 
